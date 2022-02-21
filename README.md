@@ -29,4 +29,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Editing and Deleting Recipe ##
 * As a user I can modify or delete my own recipes
+
 ![555](https://user-images.githubusercontent.com/91218241/155038667-55a3388b-7d14-4b2b-ab7a-fcb9e6a30533.gif)
