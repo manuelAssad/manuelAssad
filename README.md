@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @manuelAssad
 - 👀 I’m interested in Full Stack Web and Mobile Development!
-- 🌱 I’m currently learning Backend Development with Node, Express and MongoDB
+- :computer: **Front End** technologies: ReactJS
+- :floppy_disk: **Backend Technologies**: Django, NodeJs, Express, MongoDB
+- :technologist: **Devops Technologies**: Netlify, Digital Ocean, AWS
 - 📫 How to reach me: email: manuelnasif@gmail.com
 
 <!---
